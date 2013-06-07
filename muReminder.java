@@ -3,7 +3,7 @@ import java.util.Scanner;
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
-// muReminder -- decoder for stored muCommanders passwords, @author Konstantin Coocheenin
+// muReminder - decoder for stored muCommanders passwords, @author Konstantin Coocheenin
 // Contains XOR function and key from MuCommander source code http://www.mucommander.com/
 // Copyright (C) 2002-2013 Maxence Bernard
 
