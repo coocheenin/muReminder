@@ -40,7 +40,8 @@ public class muReminder {
     }
 
   public static void main(String[] args) {
-  	System.out.println("* muReminder - decoder for stored muCommanders passwords, written by @coocheenin *");
+  	System.out.println("* Decoder for stored muCommanders passwords *");
+    System.out.println("* muReminder written by @coocheenin *");
   	System.out.println("* For encrypted pass see credentials.xml file *");
   	System.out.println("Enter encrypted pass: ");
   	Scanner input = new Scanner(System.in);
